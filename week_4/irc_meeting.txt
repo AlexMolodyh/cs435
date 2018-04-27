@@ -1,0 +1,92 @@
+09:30		*** mouse joined #CS435zoo
+09:30		+++ Bot has given owner to frog
+09:30		+++ Bot has given op to frog
+09:31	frog	fish is waiting for his laptop to turn on
+09:31	duck	haha i'll come back in 30min then.
+09:31	duck	(jk)
+09:31	frog	yeesh
+09:32	mouse	Squeak
+09:34	frog	Hes waiting until he gets a new job to buy a new one lol
+09:34	mouse	Aren't we all?
+09:34	duck	makes sense.
+09:34	frog	I mean I'm okay with mine
+09:34		*** FishBoi joined #CS435zoo
+09:34	duck	I would have, but my hand was forced
+09:35	FishBoi	im here
+09:35	frog	yeah thats rough buddy
+09:35	frog	hello
+09:35	mouse	besides duck who has more laptops than he can carry
+09:35	frog	lolol
+09:35	duck	i can carry them just fine
+09:35	frog	then why do you leave one at home?? lol
+09:35	duck	the other ones are just spare parts
+09:35	mouse	ooohhhh.....
+09:35	duck	I use both OS regularly
+09:36	mouse	anyway........
+09:36	duck	so, should we do the meeting now?
+09:36	FishBoi	ya, lets do it. 
+09:36	mouse	wee
+09:37	mouse	......
+09:37	frog	still no meetbot bc I have no time 
+09:37	frog	rip
+09:37	FishBoi	ok, i guess we talk about what we have done then
+09:38		*** zookeeper joined #CS435zoo
+09:38	FishBoi	This week I have finished installing the Dev Tools environment on my duel booted machine
+09:39	frog	(zookeeper is my bot I am playing with)
+09:39	mouse	Well I've set up my environment but still no luck finding a bug to fix.
+09:39	duck	This last week, I finished getting my Linux environment, finished installing the DevTools, ran a practice example that didn't really help, and tried, unsuccessfully, to find a bug to work on.
+09:40	frog	This week, I messed around with supybot just to see if I could get it to work, I got my linux dual boot working fully, and did the devtools and tutorials. Still looking for a bug as well.
+09:40	mouse	I don't know that we'll find an extremely easy bug to fix so maybe we should just pick something....??
+09:41	FishBoi	Theres not a lot of first time bugs that are available or unclaimed at the moment, is what I noticed 
+09:41	FishBoi	I agree
+09:42	duck	yeah, I guess
+09:42	mouse	It's the submission that she grades so we just work on it as any open source developer would and that's all we can do I think?
+09:42	frog	okay
+09:42	mouse	Don't sound so enthusiastic there duck
+09:43	FishBoi	yeah as long as we take screen shots for everything we find useful or share with other, she said that would count
+09:44	mouse	okay, so we each one of us propose a bug by tomorrow evening or Sunday evening?
+09:45	FishBoi	I think that would be do able
+09:45	duck	Sounds good to me
+09:45	frog	how are we going to do that? should we have another meeting later?
+09:45	mouse	we can text the bug number
+09:46	FishBoi	concure
+09:47	frog	ah okay
+09:47	mouse	Should we continue with what we are going to do?
+09:47	FishBoi	I think that would be best
+09:48	FishBoi	I plan on writing my week four blog by Sunday and seeking out a bug we could possibly work on
+09:49	frog	I plan on writing my blog and looking for a bug more closely
+09:49	duck	I'm going to search for bugs to fix (finished blog just now)
+09:49	mouse	okay, so I haven't written my blog yet, as always. I will probably get to it by 11:00 PM Sunday as usual and I will look for a bug to propose hopefully by tomorrow night.
+09:51	mouse	I realized that I'm not a big fan of working on my laptop at all.
+09:51	FishBoi	neato, should we go into what obstacles may be slowing us from completing tasks? 
+09:52	mouse	I don't think I have anything that'll slow me down besides deciding on what bug to propose. 
+09:52	frog	~senior project~
+09:53	duck	*shhh*
+09:53	FishBoi	haha other classes (mostly senior project) 
+09:53	mouse	yeah that's a given....
+09:53	duck	honestly, I think an obstacle is going to be not even know how difficult a bug might be
+09:54	frog	yeah
+09:54	FishBoi	concure
+09:54	mouse	that could be with any bug. I could seem easy but digging into one might reveal that it isn't easy at all.
+09:55	mouse	It could seem ...
+09:55	FishBoi	I think your right
+09:56	mouse	anything else?
+09:56	frog	I don't think so. How long are these meeting supposed to take again?
+09:56	mouse	30 min
+09:56	mouse	30 hours!
+09:57	mouse	in mouse time
+09:57	frog	mouse have their own time??
+09:57	frog	*mice
+09:58	frog	jesus
+09:58	mouse	yeah man!
+09:58	FishBoi	should we end if we have nothing else to say
+09:58	mouse	sounds good to me.
+09:58	frog	sure
+09:59	mouse	duck?
+09:59	frog	FishBoi are you going to copy the chat?
+09:59	duck	bye
+09:59	FishBoi	I'll post it to the drive and turn it in
+09:59	mouse	thanks!
+09:59	mouse	later!
+09:59	frog	bye!
+09:59		*** duck quit (Quit: http://www.mibbit.com ajax IRC Client)
