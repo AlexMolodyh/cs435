@@ -1,0 +1,6 @@
+Hi Josh,
+
+I wanted to thank you for taking the time out of your schedule and giving us some guidense in starting a development process. I'm sure you remember how it's like to enter a large code base as a student. We don't usually get exposure to large open source projects like the devtools. I wanted to let you know that your advice was a big help to me. So I just wanted to say, thank you!
+
+Sincerely,
+Alexander Molodyh Student

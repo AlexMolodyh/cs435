@@ -1,0 +1,50 @@
+09:37		*** mouse joined #CS435zoo
+09:37	FishBoi	wooot woot we are all here!!
+09:38	duck	w00t w00t
+09:38	mouse	I never knew about this client. I was using hexchat
+09:38	frog	ohhhh my bad sorry 
+09:38	mouse	It's all good.No worries!
+09:38	FishBoi	shall we get started?
+09:38	frog	lets do it
+09:38	mouse	Yup.
+09:39	FishBoi	whose running it?
+09:39	FishBoi	#startmeeting
+09:40	duck	you are!
+09:40	FishBoi	neato
+09:40	FishBoi	give me two seconds, i have to remember the commands
+09:40	mouse	take your time....
+09:41	FishBoi	#topic Updates
+09:42	FishBoi	I have duel booted my computer to run linux, now I can get some stuff done
+09:42	mouse	I'm still working on setting up my dev environment. I'm hoping to have it up today by either setting up a different vm or trying on that same linux machine a few more times...
+09:43	duck	I also have linux finally dual booted on my machine after much trial and error. 
+09:43	frog	mouse we had a lot of success with dualbooting from a USB that was burned with Rufus
+09:43	duck	i also have git and mercurial installed, but that's it.
+09:43	duck	yes Rufus is what seemed to make the difference
+09:43	FishBoi	#info mouse is still working on setting up dev environment, frog, duck, and FishBoi have finished installing linux
+09:44	FishBoi	anyone finish this weeks blog?
+09:44	mouse	I just can update my remote branch because I'm missing some C libraries inside linux to make the git-cinnabar helper
+09:45	frog	weird
+09:45	mouse	I just "can't" update my remote branch because I'm missing some C libraries inside linux to make the git-cinnabar helper
+09:45	mouse	That's why I want to try on something else like ubuntu. 
+09:47	mouse	I still haven't done anything for my blog
+09:48	duck	no blog yet. maybe today.
+09:48	FishBoi	I havent finished mine either
+09:48		+++ Bot has given owner to frog
+09:48		+++ Bot has given op to frog
+09:49	frog	I remembered my pw!! lol
+09:49	frog	actually that is a lie I had to find the password notebook....
+09:49	FishBoi	#action FishBoi,, mouse, duck and frog are working on their blog
+09:50	FishBoi	Is there anything else?
+09:51	frog	we are all still working on getting git-cinnabar, mercurial, and devtools installed right?
+09:51	mouse	Yeah pretty much
+09:52	frog	ok, I think we still need to find a bug to fix by sunday
+09:52	frog	a teeny tiny one
+09:53	mouse	Yeah, I'm going to be working on setting up my dev environment after the meeting.
+09:53	FishBoi	sounds like a plan, goodness this weekend is going to be busy
+09:55	frog	okay anything else?
+09:55	FishBoi	shall we end the meeting?
+09:56	mouse	Sounds good to me.
+09:56	duck	yup
+09:56	FishBoi	Everyone in favor, say ai?
+09:56		*** frog left #CS435zoo
+09:57	FishBoi	#endmeeting
