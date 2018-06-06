@@ -1,0 +1,92 @@
+ 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+11:50		*** mouse joined #CS435zoo
+11:50		+++ irc.uk.mibbit.net set the channel to mode +n
+11:50		+++ irc.uk.mibbit.net set the channel to mode +t
+11:50		+++ ChanServ set the channel to mode +r
+11:50		+++ ChanServ has taken op from mouse
+12:05		*** frog joined #CS435zoo
+12:05	frog	hey there
+12:05	frog	sorry about the delay, we were messing with the wifi at our house and only tested it on our phones, not with our laptops
+12:07	mouse	sup, it's all good...
+12:08	frog	fish should be on soon
+12:08	mouse	Awesome.
+12:08		*** FishBoi joined #CS435zoo
+12:09	FishBoi	I think im here
+12:09	mouse	I think your here too..
+12:09	frog	okay well duck said to start without him and we're running low on time so lets start
+12:09		*** FishBoi quit (Quit: http://www.mibbit.com ajax IRC Client)
+12:10	mouse	Looks like more connection issues?
+12:10	frog	i guess
+12:10		*** FishBoi joined #CS435zoo
+12:10	frog	okay
+12:10	frog	what did we accomplish this week?
+12:11	FishBoi	We finished out senior projects!!! And i am in communication with mozilla with my bug
+12:11	mouse	I've been attempting to figure out why the mouse isn't telling the debugger window its coordinates when you enter the console window.
+12:12	mouse	I think this might be a better solution if I can figure out how to still move the vertical splitter even if you are in the console window.
+12:12	frog	This week I finalized a bug I am going to investigate, I can't recreate it on my linux partition but that might be useful information so I will contribute that. I'm also having trouble recreating its "parent" bug, because the steps to reproduce don't work well in the debugger. It wants me to put a breakpoint at a ReactJs return statement,
+12:13	frog	I don't seem to be able to, but I'm not sure if that in itself is a bug or if its how react is supposed to be handled
+12:14	mouse	Yeah, I think learning about React might help everyone here...
+12:14	frog	mouse yeah, when I looked at it with you the other day it seemed that the pointer coordinates were locked to one part of the window
+12:15		*** FishBoi quit (Quit: http://www.mibbit.com ajax IRC Client)
+12:15		*** FishBoi joined #CS435zoo
+12:16	mouse	frog, the bug reporter said that it should stop moving the window as soon as you leave the debugger window but I disagree. I think you should be able to move the splitter regardless of where the pointer is..
+12:17	frog	mouse I also disagree, I feel like that could potentially be a usability/accessibility issue. It might be worth looking up some accessibility documentation and see if you can find anything to support your point, and then add that to the discussion?
+12:18	mouse	That's very good advice there frog. I think I will do that.
+12:19	mouse	I'm trying to keep the coordinates of the pointer being fed to the splitter event while it's moving anywhere but I will settle for manually firing the mouseUp event so that it lets go of the splitter upon entering another window. That is if they don't want the former feature mentioned. 
+12:19	frog	fair enough
+12:20	frog	okay, what are we working on moving forward?
+12:21	FishBoi	I am moving forward on finishing my weekly blog update, fixing my bug if i can, make it through the term, and take my dog on my walks!
+12:22	frog	I am working on delving more into react, so I can potentially add something to the discussion on bugzilla. I will probably hit up the slack channel if I can't find anything on it by reading the documentation or info on react
+12:22	mouse	I will look into my current bug and see if the issue raised here could be part of an accessibility issue and see what I can do about it..
+12:22	mouse	I'm also planning on creating a gif of my issue and asking for help on Slack.
+12:24	FishBoi	whats next?
+12:24	frog	what are our impediments (speed round)
+12:25	frog	my impediments are not knowing anything about how react js should work
+12:25	mouse	Same here. I have a hard time understanding what's happening when I debug that files in React.
+12:26	FishBoi	my impediments are needing to use the whole central bugzilla folder and trying to figure out all the things I need to download on linux to run it
+12:26	frog	yeesh
+12:26	frog	okay, I think that's it.
+12:26	FishBoi	kool kool
+12:26	mouse	sweet!
+12:26	FishBoi	Have a great weekend my dudes
+12:27	frog	see y'all tomorrow?
+12:27	mouse	later!
